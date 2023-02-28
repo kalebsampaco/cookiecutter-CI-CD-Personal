@@ -1,4 +1,4 @@
-name: cookiecutter-personal
+name: cookiecutter-ci-cd
 channels:
   - anaconda
   - conda-forge
